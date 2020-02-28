@@ -237,6 +237,8 @@ System.out.println("Enter Id you want to delete");
 		break;
 case 7:
 System.out.println("Logout");
+System.out.println("Please select the choice:");
+System.out.println("Choose 1 for Login:");
 System.out.println("");
 break;
 }
